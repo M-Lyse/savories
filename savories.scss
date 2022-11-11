@@ -1,0 +1,14 @@
+$primary_color: #2F3F1F;
+$secondary_color: #0075B0;
+$complimentary_color: #EDFFD6;
+$shade_color: #F8FFF8;
+$primary_dark: #333333;
+$primay_white: #f2f2f2;
+
+%hover {
+    box-shadow: 0 0 10px 5px rgba($primary-color, .5);;
+    transition: box-shadow 0.8ms cubic-bezier(.17,.67,.83,.67) ;
+}
+
+
+
