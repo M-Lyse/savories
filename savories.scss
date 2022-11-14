@@ -1,3 +1,5 @@
+
+
 $primary_color: #2F3F1F;
 $secondary_color: #0075B0;
 $complimentary_color: #EDFFD6;
@@ -8,6 +10,17 @@ $primay_white: #f2f2f2;
 %:hover {
     box-shadow: 0 0 10px 5px rgba($primary-color, .5);;
     transition: box-shadow 0.8ms cubic-bezier(.17,.67,.83,.67) ;
+}
+
+:root{
+    --primary-color: #ED4020;
+    --secondary-color: #FFC620;
+    --main-bg-color: #FFEEBC;
+    --secondary-bg-color: #F27962;
+    --neutral-bg-color: #FFFFFF;
+    --primary-heading-color: #2E2E2E;
+    --secondary-heading-color: #000000;
+    --primary-text-color: #333333;
 }
 
 
